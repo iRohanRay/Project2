@@ -20,7 +20,7 @@ const Product = () => {
       image: '/tigerPhoto.png',
       altText: 'Tiger illustration',
       description: 'The **tiger** is a majestic and powerful big cat, known for its orange coat with black stripes. Found in Asia, it is an apex predator that plays an important role in maintaining the balance of ecosystems. Tigers are solitary and territorial, adapting well to a variety of habitats, from dense forests to open grasslands. They hunt primarily at night and rely on stealth and strength to catch prey. With fewer than 4,000 tigers left in the wild, conservation efforts are crucial to ensuring their survival. Tigers inspire awe and are celebrated in cultures worldwide for their beauty and strength.',
-      methodImage: '/tigerQr.png',
+      methodImage: '/tigerQR.png',
     },
     {
       avatarLetter: 'P',
@@ -65,7 +65,7 @@ const Product = () => {
       image: '/crocodile.jpeg',
       altText: 'Crocodile illustration',
       description: 'The **crocodile** is a large reptile known for its powerful jaws and stealth. Found in rivers, lakes, and swamps, it is an apex predator feeding on fish, birds, and mammals. Crocodiles have existed for millions of years, surviving drastic environmental changes. They regulate their body temperature by basking in the sun and entering water. Crocodiles lay eggs in nests, and mothers protect their young fiercely. They play a key role in maintaining healthy aquatic ecosystems by controlling prey populations. Despite their fearsome reputation, crocodiles are vital for biodiversity and are protected through conservation efforts to ensure their survival.',
-      methodImage: '/crocodileQr.png',
+      methodImage: '/CrocodileQr.png',
     },
     {
       avatarLetter: 'C',
@@ -83,7 +83,7 @@ const Product = () => {
       image: '/Lungs.jpeg',
       altText: 'Human lungs illustration',
       description: 'The **lungs** are vital respiratory organs responsible for oxygenating blood and expelling carbon dioxide. Located in the chest, they work with the diaphragm to enable breathing. Air travels through the trachea, bronchi, and alveoli, where gas exchange occurs. The lungs maintain blood pH and support metabolic processes. Each lung is surrounded by a pleural membrane for protection. Lungs are delicate yet resilient, with an ability to recover from minor damage. Proper lung function is critical for overall health, as they provide oxygen essential for survival. Maintaining healthy lungs involves avoiding pollutants and adopting a balanced lifestyle for well-being.',
-      methodImage: '/lungsQr.png',
+      methodImage: '/LungsQr.png',
     },
   ];
   
