@@ -26,7 +26,7 @@ function About() {
              muted
            >
              <source
-               src="public/v2.mp4"
+               src="/v2.mp4"
                type="video/mp4"
              />
              Your browser does not support the video tag.
@@ -45,7 +45,7 @@ function About() {
              muted
            >
              <source
-               src="public/v3.mp4"
+               src="/v3.mp4"
                type="video/mp4"
              />
              Your browser does not support the video tag.
@@ -65,7 +65,7 @@ function About() {
              loop
            >
              <source
-               src="/public/video.mp4"
+               src="/video.mp4"
                type="video/mp4"
              />
              Your browser does not support the video tag.

@@ -8,7 +8,7 @@ const Home = () => {
       <header className="relative bg-white parallax">
         <div className="parallax__layer parallax__layer--back">
           
-          <img src="/public/1.png" alt="Background" className="w-full h-96 object-cover" />
+          <img src="/1.png" alt="Background" className="w-full h-96 object-cover" />
         </div>
         <div className="parallax__layer parallax__layer--base">
           <div className="container mx-auto px-6 py-12 text-center relative z-10">
@@ -33,7 +33,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="w-full md:w-1/2">
             
-            <img src="/public/2.png" alt="Transform Learning" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/2.png" alt="Transform Learning" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-yellow-100 p-4 rounded-lg">
@@ -57,7 +57,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row-reverse items-center justify-between">
           <div className="w-full md:w-1/2">
             
-            <img src="/public/3.png" alt="Bring Learning to Life" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/3.png" alt="Bring Learning to Life" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-blue-100 p-4 rounded-lg">
@@ -81,7 +81,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="w-full md:w-1/2">
            
-            <img src="/public/4.png" alt="Imagination Soar" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/4.png" alt="Imagination Soar" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-green-100 p-4 rounded-lg">
@@ -105,7 +105,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row-reverse items-center justify-between">
           <div className="w-full md:w-1/2">
            
-            <img src="/public/5.png" alt="Scan Discover Learn" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/5.png" alt="Scan Discover Learn" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-purple-100 p-4 rounded-lg">
@@ -129,7 +129,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="w-full md:w-1/2">
             
-            <img src="/public/6.png" alt="Unlock 3D Possibilities" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/6.png" alt="Unlock 3D Possibilities" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-teal-100 p-4 rounded-lg">
@@ -153,7 +153,7 @@ const Home = () => {
         <div className="flex flex-col md:flex-row-reverse items-center justify-between">
           <div className="w-full md:w-1/2">
           
-            <img src="/public/7.png" alt="Inspire Curiosity" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
+            <img src="/7.png" alt="Inspire Curiosity" className="w-full h-72 object-cover rounded-lg shadow-lg hover:shadow-[0_4px_20px_#d1b3ff] hover:scale-105 transition-transform duration-300" />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 bg-pink-100 p-4 rounded-lg">
