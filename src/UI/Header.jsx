@@ -9,7 +9,7 @@ const Header = () => {
         <div className="flex items-center space-x-4">
           {/* Circular Logo Image */}
           <img
-  src="/public/logo.png" 
+  src="/logo.png" 
   alt="WonderScan Logo"
   className="w-16 h-16 rounded-full object-cover mx-auto transform transition-transform duration-300 hover:scale-110 animate__animated animate__fadeIn animate__delay-1s"
   loading="lazy" 
