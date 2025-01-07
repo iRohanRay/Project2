@@ -8,7 +8,7 @@ const Product = () => {
       avatarLetter: 'H',
       title: 'Heart',
       subheader: 'September 14, 2016',
-      image: '/public/hear.jpg',
+      image: '/hear.jpg',
       altText: 'Human heart illustration',
       description: 'The **human heart** is a muscular organ roughly the size of a fist, located slightly left of the center of the chest. It is responsible for pumping blood throughout the body, supplying oxygen and nutrients to tissues while removing carbon dioxide and waste products. The heart has four chambers: two atria (upper chambers) and two ventricles (lower chambers). Blood flows through the heart in a specific cycle: oxygen-poor blood enters the right side, gets pumped to the lungs for oxygenation, and then the oxygen-rich blood returns to the left side to be pumped throughout the body. This process is vital for maintaining the body’s overall health and function.',
       methodImage: '/public/heartQr.png',
